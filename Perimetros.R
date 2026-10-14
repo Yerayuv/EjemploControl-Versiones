@@ -7,6 +7,6 @@ LongitudCircunferencia= function(l){
 }
 
 PerimetroRectangulo=function(l1,l2){
-  2*l1+2*l2
+  2*(l1+l2)
 }
 pi=3.14159
