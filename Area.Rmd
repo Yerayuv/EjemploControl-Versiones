@@ -23,6 +23,7 @@ b=1
 c=2
 arearectangulo=b*c
 
+
 base=1
 altura=1
 areatriangulo=base*altura/2
