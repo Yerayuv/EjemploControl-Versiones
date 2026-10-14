@@ -14,7 +14,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 r=1
-area=pi*r^2
+areacirculo=pi*r^2
+
+a=1
+areacuadrado=a^2
 ```
 
 
