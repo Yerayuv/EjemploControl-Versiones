@@ -27,6 +27,11 @@ arearectangulo=b*c
 base=1
 altura=1
 areatriangulo=base*altura/2
+
+base=1
+altura=1
+lado=1
+areatrapecio=(base+lado)*altura/2
 ```
 
 
